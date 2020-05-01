@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-mariadb",
+  "version": "1.0.0",
+  "description": "Learning Node.js Connect MySQL",
+  "dependencies": {
+    "mariadb": "^2.3.1",
+    "mysql": "^2.18.1"
+  }
+}
